@@ -43,10 +43,12 @@
 
 <br/>   
 
-### 🖥️ Logiciels de développement :
+### 🖥️ IDE :
 ![Google Colab](https://img.shields.io/badge/Google_Colab-%234599ff.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Qt Creator](https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <br/>   
 
