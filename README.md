@@ -70,4 +70,4 @@
 <br/>   
 
 ## 🌐 Réseaux sociaux:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-lemonnier-80a283225) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-lemonnier-80a283225)
