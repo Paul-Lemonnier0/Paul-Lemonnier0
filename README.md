@@ -1,9 +1,9 @@
 # Bonjour, je suis Paul Lemonnier 👋
 
-🎓 Actuellement en troisième année d'études en informatique, je suis passionné par l'apprentissage des technologies émergentes et l'exploration de nouvelles façons d'aborder les défis informatiques<br><br>
-🌱 Je suis constamment en train d'apprendre de nouvelles technologies et d'améliorer mes compétences en développement logiciel.<br><br>
-💻 J'aime travailler sur des projets personnels et collaboratifs, en particulier ceux qui impliquent des domaines tels que le développement web et l'intelligence artificielle.<br><br>
-🔍 Je suis curieux et toujours à la recherche de solutions innovantes pour résoudre des problèmes techniques
+#### 🎓 Actuellement en troisième année d'études en informatique, je suis passionné par l'apprentissage des technologies émergentes et l'exploration de nouvelles façons d'aborder les défis informatiques<br><br>
+#### 🌱 Je suis constamment en train d'apprendre de nouvelles technologies et d'améliorer mes compétences en développement logiciel.<br><br>
+#### 💻 J'aime travailler sur des projets personnels et collaboratifs, en particulier ceux qui impliquent des domaines tels que le développement web et l'intelligence artificielle.<br><br>
+#### 🔍 Je suis curieux et toujours à la recherche de solutions innovantes pour résoudre des problèmes techniques
 
 <br/>   
 
