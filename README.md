@@ -1,4 +1,4 @@
-# Bonjour, je suis Paul Lemonnier 👋
+# Bienvenue ! 👋
 
 🎓 Actuellement en troisième année d'études en informatique, je suis passionné par l'apprentissage des technologies émergentes et l'exploration de nouvelles façons d'aborder les défis informatiques<br><br>
 🌱 Je suis constamment en train d'apprendre de nouvelles technologies et d'améliorer mes compétences en développement logiciel.<br><br>
